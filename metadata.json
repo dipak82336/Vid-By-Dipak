@@ -1,0 +1,5 @@
+{
+  "name": "main 1 Motion Graphics Editor UI",
+  "description": "A web-based user interface for creating and editing motion graphics compositions. Features a timeline, layer properties, a preview panel, and a render queue for generating videos.",
+  "requestFramePermissions": []
+}
